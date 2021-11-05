@@ -1,0 +1,10 @@
+Variable:
+Las variables serian contenedores donde guardamos datos que podemos usar en nuestro código.
+Strings:
+Son cadenas de caracteres, es decir, desde una simple letra hasta un texto completo.
+Funciones (argumentos, return):
+Las funciones son bloques de código que podemos reutilizar cada vez que lo necesitemos. Los argumentos nos sirven para modificar los códigos de las funciones y volverlas mas "personalizables". Los return nos retorna un dato y finaliza con el llamado a la función.
+Declaraciones if:
+If es un condicional que evalua si una condicion es verdadera o falsa para ejecutar un bloque de código determinado.
+Valores booleanos (true, false):
+Los valores booleanos son variables con valores binarios, es decir, solo puede contener true o false.
