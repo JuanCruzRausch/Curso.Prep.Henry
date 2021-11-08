@@ -1,0 +1,8 @@
+for:
+for es un bucle que nos permite repetir un bloque de código la cantidad de veces que queramos
+&&:
+es un operador logico que se coloca entre condiciones y nos permite retornar algo si es que todas las condiciones se cumplen. En español seria un 'y'
+||:
+es un operador logico que se coloca entre condiciones y nos permite retornar algo si es que alguna de las condiciones se cumplen. En español seria 'o'
+!:
+Nos devuelve lo contrario a un valor vuleano o nos permite saber cuando un valor es diferente a la variable que queramos comparar.
