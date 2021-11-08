@@ -1,0 +1,2 @@
+array:
+un arreglo es basicamente es un conjunto de variables o datos que son del mismo tipo 
