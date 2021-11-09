@@ -1,0 +1,10 @@
+Objetos:
+Los objetos son practicamente arreglos que pueden contener propiedades y metodos(funciones)
+Propiedades:
+Las propiedades son variables dentro de un objeto
+Métodos:
+Los métodos son funciones dentro de un objeto
+Bucle for…in:
+Este bucle recorre un objeto y nos devuelve el nombre de sus propiedades y sus valores
+Notación de puntos vs notación de corchetes:
+Deberías usar . cuando sabes el nombre de la propiedad, y deberías utilizar [] cuando el nombre de la propiedad está contenido en una variable
