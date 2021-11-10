@@ -1,0 +1,4 @@
+prototype:
+Prototype es un objeto que esta dentro de otro objeto, este contiene metodos de estos objetos. Prototype esta en todos los elementos de JavaScript, Ejemplo: .length es un metodo que esta dentro de los elementos array
+Constructors (de Clases):
+El constructor de una clase nos define las propiedades y metodos de un objeto.
