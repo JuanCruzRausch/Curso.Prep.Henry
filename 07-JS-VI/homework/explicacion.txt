@@ -1,0 +1,2 @@
+CallBacks:
+Los CallBacks son funciones que se pasan como argumentos a otras funciones para que estan las puedan usar dentro de su código.
