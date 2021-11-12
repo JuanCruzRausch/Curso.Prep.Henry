@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://imagenes.elpais.com/resizer/D1eYUUEfyOIXlXnix3cXUCSGZF8=/980x735/filters:focal(1745x609:1755x619)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7G364PMCSFGIHFZNHHJLNQL4SU.jpg");
+    background-repeat:no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    background-size: 100%;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    color: yellowgreen;
+}
+
+img{
+    width: 400px;
+}
+
+.thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(171, 209, 0);
+    padding: 50px;
+    border: solid 2px black;
+    border-radius: 5px; 
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    color: #fff;
+}
+
+ul{
+    list-style-type: none;  
+}
+
+.divClass{
+    color: #fff;
+}
+
+a{
+    color: #fff;
+    font-size: 1.5rem;
+}

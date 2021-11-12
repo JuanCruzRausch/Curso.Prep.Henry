@@ -1,0 +1,58 @@
+body{
+    background-color: #fff;
+    font-family: 'Cabin' ,sans-serif;
+}
+
+footer{
+    margin: 3rem;
+}
+
+h1{
+    font-size: 1.5rem;
+    margin-top: 3rem;
+    
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+ul{
+    list-style-type: none;  
+}
+
+li{
+    margin: 1rem;
+}
+
+.first-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #000;
+    border-radius: 5px;
+    width: 20%;
+    transition: all 0.3s ease-in-out;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card:hover{
+    opacity: 0.8;
+    background-color: rgb(192, 192, 192);
+}
+
+.cv-img{
+    width: 75%;
+    padding-top: 2rem;
+}
+
+.Descr{
+    width: 50%;
+    margin-left: 3rem;
+}
